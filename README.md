@@ -1,3 +1,3 @@
 # MyFirstGitProject
 
-Hi ,  this is my firts Readme file
+Hi ,  this is my first Readme file
